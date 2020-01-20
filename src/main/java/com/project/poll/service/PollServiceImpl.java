@@ -1,9 +1,3 @@
-/*
- * Copyright 2007-2020 Thomson Reuters Global Resources. All rights reserved. Proprietary and confidential information of TRGR.
- * Disclosure, use, or reproduction without the written authorisation of TRGR is prohibited. : PollServiceImpl.java 100473
- * 1/20/2020 10:20 AM:57Z Mykola_Filimonov $
- */
-
 package com.project.poll.service;
 
 import com.project.poll.dto.Option;
