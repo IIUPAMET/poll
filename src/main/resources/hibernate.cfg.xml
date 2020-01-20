@@ -24,8 +24,8 @@
         <property name="hibernate.dbcp.maxIdle">10</property>
         <property name="hibernate.dbcp.minIdle">5</property>
         <property name="hibernate.dbcp.maxWaitMillis">-1</property>
-        <mapping class="com.project.poll.repository.Option" />
-        <mapping class="com.project.poll.repository.Question" />
-        <mapping class="com.project.poll.repository.Vote" />
+        <mapping class="com.project.poll.dto.Option" />
+        <mapping class="com.project.poll.dto.Poll" />
+        <mapping class="com.project.poll.dto.Vote" />
     </session-factory>
 </hibernate-configuration>

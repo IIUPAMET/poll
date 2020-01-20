@@ -1,4 +1,4 @@
 package com.project.poll.model;
 
-public abstract class BaseDAO {
+public abstract class BaseEntity {
 }
