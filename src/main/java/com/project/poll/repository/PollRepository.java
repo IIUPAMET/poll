@@ -1,6 +1,6 @@
 package com.project.poll.repository;
 
-import com.project.poll.dto.Poll;
+import com.project.poll.model.Poll;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

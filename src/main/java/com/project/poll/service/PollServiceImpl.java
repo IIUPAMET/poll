@@ -1,7 +1,7 @@
 package com.project.poll.service;
 
-import com.project.poll.dto.Option;
-import com.project.poll.dto.Poll;
+import com.project.poll.model.Option;
+import com.project.poll.model.Poll;
 import com.project.poll.repository.PollRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

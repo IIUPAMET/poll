@@ -1,7 +1,7 @@
 package com.project.poll.service;
 
-import com.project.poll.dto.Option;
-import com.project.poll.dto.Poll;
+import com.project.poll.model.Option;
+import com.project.poll.model.Poll;
 
 import java.util.List;
 import java.util.Map;

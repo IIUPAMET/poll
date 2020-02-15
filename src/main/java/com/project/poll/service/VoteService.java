@@ -1,6 +1,6 @@
 package com.project.poll.service;
 
-import com.project.poll.dto.Vote;
+import com.project.poll.model.Vote;
 
 import java.util.List;
 

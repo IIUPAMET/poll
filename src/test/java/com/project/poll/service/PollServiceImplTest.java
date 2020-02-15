@@ -1,6 +1,6 @@
 package com.project.poll.service;
 
-import com.project.poll.dto.Poll;
+import com.project.poll.model.Poll;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
